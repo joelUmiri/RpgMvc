@@ -95,3 +95,10 @@ D:\Yunlo e Joel\DS\RpgMvc\obj\Debug\net9.0\refint\RpgMvc.dll
 D:\Yunlo e Joel\DS\RpgMvc\obj\Debug\net9.0\RpgMvc.pdb
 D:\Yunlo e Joel\DS\RpgMvc\obj\Debug\net9.0\RpgMvc.genruntimeconfig.cache
 D:\Yunlo e Joel\DS\RpgMvc\obj\Debug\net9.0\ref\RpgMvc.dll
+D:\Yunlo e Joel\DS\RpgMvc\obj\Debug\net9.0\RpgMvc.sourcelink.json
+D:\Yunlo e Joel\DS\RpgMvc\obj\Debug\net9.0\RpgMvc.csproj.AssemblyReference.cache
+D:\Yunlo e Joel\DS\RpgMvc\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Yunlo e Joel\DS\RpgMvc\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Yunlo e Joel\DS\RpgMvc\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Yunlo e Joel\DS\RpgMvc\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+D:\Yunlo e Joel\DS\RpgMvc\obj\Debug\net9.0\RpgMvc.csproj.Up2Date
